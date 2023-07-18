@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: LEGO
-slug: lego
-category: review
+title: Anbu
+slug: Anbu
+category: Tag
 sidebar: false
 description: >
-   LEGO Reviews
+   Nivel Alto.
 ---
