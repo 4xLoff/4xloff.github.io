@@ -1,0 +1,65 @@
+
+writhe up
+![list](/assets/img/lame/Captura de pantalla (139).png){:.lead width="800" height="100" loading="lazy"}
+
+this ordered seed list will be replaced by the toc
+{:toc}
+Reconnaissance
+nmap
+Utizando nmap comprobamos que puertos estan abiertos.
+
+nmap 10.129.131.234
+"/assets/img/lame/Kali-2022-09-09-21-25-44.png" no se ha creado todavia. Haga click para crear.
+{:.lead width="800" height="100" loading="lazy"}
+El paso anterior se debe hacer con privileguios root.
+{:.note title="Attention"}
+Services and Versions
+nmap -sVC 10.129.91.160
+"/assets/img/lame/Kali-2022-09-09-21-27-12.png" no se ha creado todavia. Haga click para crear.
+{:.lead width="800" height="100" loading="lazy"}
+El paso anterior no es nesesario ser root.
+{:.note title="Attention"}
+Vulnerability Analysis
+SMB TCP-443
+eSTAN ABIERTOS LOS PUETOS 135,139 Y EL 445 abierto el servicio de SMB YA QUE LOS OTROS PUERTOS NO PRESENTARON VULNERABILIDADES NOS VAMOS A CENTRAR EN ESTE , PERO COMO NO TENEMOS CREDENCIALES VAMOS A USAR CREDENCIALES POR DEFECTO OSEA EL USUARIO GUEST.
+
+list shares
+smbcliet
+smbmap
+"/assets/img/lame/Kali-2022-09-09-22-14-21.png" no se ha creado todavia. Haga click para crear.
+{:.lead width="800" height="100" loading="lazy"}
+El exploit está escrito en Ruby, pero podemos buscarlo en Google en Python o Bash.
+{:.note}
+
+Exploitation
+Una ves listamos los shares vemos en cual tenemos permiso de lectura y escritura nos mtemos con smbcliet y nos movemos pro los directorioss hasta encontrar la flag.txt en ete caso esra en el directorio James.P el cual con el comando get lo descargamos del servidor y ya lo podemos ver.
+
+cat flag.txt
+🎉 Felicitaciones ya has comprometido Lame de HackTheBox 🎉
+{:.centered}
+
+Back to Beginner-Track{:.heading.flip-title}
+{:.read-more}
+
+temas
+ovpn
+mkdir
+cat
+ls
+Telnet
+Network
+Protocols
+Reconnaissance
+Weak Credentials
+Misconfiguration
+Virtual Machine
+terminal
+tun0
+ping
+nmap
+root
+SFTP
+
+anonymous
+SMB
+get en ftp

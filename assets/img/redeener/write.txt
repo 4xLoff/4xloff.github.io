@@ -1,0 +1,114 @@
+
+---
+layout:   post
+title:    "Write Up Lame. "
+subtitle: "Starting-Point"
+category:   HTB
+tags:      [Easy,Genin,Linux,SMB,Reverse-Shell,CVE,RCE,eJPT,Write-Up-Machine,Starting-Point,eJPTv2]  
+---
+![list](/assets/img/lame/Captura de pantalla (139).png){:.lead width="800" height="100" loading="lazy"}
+
+***
+<!--more-->
+
+1. this ordered seed list will be replaced by the toc
+{:toc}
+
+***
+
+## Reconnaissance
+
+***
+### nmap
+
+Utizando **nmap** comprobamos que puertos estan abiertos.
+
+
+```bash
+nmap --open -p- -Pn -n -T4 -vvv 10.129.180.205 -oN allports
+```
+
+![list](/assets/img/lame/Kali-2022-09-09-21-25-44.png){:.lead width="800" height="100" loading="lazy"}
+El paso anterior se debe hacer con privileguios **root**.
+{:.note title="Attention"}
+
+***
+### Services and Versions
+
+```bash
+nmap -sVC -p6379 10.129.180.205 -oN target
+```
+
+
+![list](/assets/img/lame/Kali-2022-09-09-21-27-12.png){:.lead width="800" height="100" loading="lazy"}
+El paso anterior no es nesesario ser **root**.
+{:.note title="Attention"}
+
+***
+## Vulnerability Analysis
+
+### REDIS TCP-6379
+
+  
+"El puerto 6379 está abierto, lo que indica que el servicio de Redis está en ejecución. Dado que los otros puertos no presentaron vulnerabilidades, nos vamos a centrar en este. Sin embargo, como no tenemos credenciales, ASI QUE NOS VAMOS A CONECTAR SI PROPORCIONAR NADA.
+
+
+![list](/assets/img/lame/Kali-2022-09-09-22-14-21.png)
+
+
+{:.lead width="800" height="100" loading="lazy"}
+El exploit está escrito en Ruby, pero podemos buscarlo en Google en Python o Bash.
+{:.note}
+
+
+***
+## Exploitation
+
+HACEMOS INFO PARA VER TODA LA INFORACION DEL SITEMA COMO VEMOS QUE HAY CUATRO BASSES DE DATOS CO EL COMADO SELECT 0 SELECIONAMOS LA BASE DE DATOSM 0 PARA VER TADA LAS KEYS HAY HACEMOS KEYS * E IMPRIMIMOS LA QUE DICE FLAG CON EL COMADO GET FLAG
+
+```bash
+🎉 Felicitaciones ya has comprometido Lame de HackTheBox 🎉
+```
+{:.centered}
+***
+
+Back to [Beginner-Track](2023-01-19-Beginner-Track.md){:.heading.flip-title}
+{:.read-more}
+
+
+
+
+# temas
+
+ovpn
+mkdir
+cat
+ls
+Telnet
+Network
+Protocols
+Reconnaissance
+Weak Credentials
+Misconfiguration
+Virtual Machine
+terminal
+tun0
+ping
+nmap
+root
+SFTP
+- [ ] anonymous
+SMB
+get en ftp
+REDIS
+Databases
+
+https://github.com/JasonTurley/eJPT/blob/main/cheat-sheet.md
+
+
+
+
+
+
+
+

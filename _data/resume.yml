@@ -1,0 +1,164 @@
+basics:
+  name: "4xL"
+  label: "IT Security Specialist - Cybersecurity Technologist | Ethical Hacker | Pentester | CTFs | Musician."
+  picture: /assets/img/seattle.png
+  email: "jesiel1990arthas@gmail.com"
+  phone: ""
+  website: "https://4xloff.github.io/"
+  summary: >
+    Hi, I'm **Jhon**, *a.k.a.* **4xL**.<br>
+    Me gusta resolver problemas desafiantes en el campo de la Ciberseguridad probablemente <br>
+    esa es la razón por la que me gustan los CTF's como los de Hack The Box o Try Hack Me, etc<br>
+    Por favor, revisa mi resume si deseas saber más sobre mí.
+  
+    
+ #location:
+  #   address: ""
+  #   postalCode: ""
+  #   city: ""
+  #   countryCode: "EC"
+  #   region: "Ecuador"
+  
+  profiles:
+    - network: "Github"
+      username: "4xLoff"
+      url: "https://github.com/4xLoff"
+    - network: "LinkedIn"
+      username: "Jhon Carlos Lara"
+      url: "https://www.linkedin.com/in/jhoncarloslara/"
+work:
+  - company: "Helpers"
+    position: "CEO"
+    website: ""
+    startDate: "2021-09-11"
+    endDate: ""
+    summary: >
+      Professional Red & Blue Team Consultant.
+    highlights:
+     
+  - company: "Tata Consultancy Services"
+    position: "Intern"
+    website: ""
+    startDate: "2020-12-01"
+    endDate: "2021-06-21"
+    summary: >
+      Cybersecurity.
+    highlights:
+    
+  - company: "Mobil.S.A"
+    position: "Customer Service"
+    website: ""
+    startDate: "2013-10-15"
+    endDate: "2016-03-30"
+    summary: >
+      Products and Services.
+    highlights:
+    
+# volunteer:
+  # - organization: ""
+    # position: ""
+    # website: ""
+    # startDate: ""
+    # endDate: ""
+    # summary: ""
+    # highlights:
+      # - ""
+education:
+  - institution: "ITECSUR"
+    area: "Cybersecurity"
+    studyType: "Bachelor"
+    startDate: "2018-05-01"
+    endDate: "2021-04-30"
+    gpa: "9 / 10"
+projects:
+  - title: "Blog de Ciberseguridad y Write ups de Plataformas de CTF’s"
+    startDate: "2022-01-10"
+    endDate: ""
+    summary: "Road to OSCP"
+    highlights:
+  - title: "GitHub Repository"
+    startDate: "2022-01-10"
+    endDate: ""
+    summary: "Road to OSCP"
+    url: "https://github.com/4xLoff"
+    highlights:
+  - title: "YouTube Channel of Helpers."
+    startDate: "2022-01-10"
+    endDate: ""
+    summary: "Road to OSCP"
+    url: "https://www.youtube.com/channel/UCspCDgm1BZ4siDL_z4NF6vA"
+    highlights:
+  - title: "Cybersecurity TikTok."
+    startDate: "2022-01-10"
+    endDate: ""
+    summary: "Cybersecurity awareness/education."
+    url: ""
+    highlights:
+# awards:
+  # - title: ""
+    # awarder: ""
+    # highlights:
+      # - ""
+      # - ""
+# publications:
+#   - name: ""
+#     publisher: ""
+#     releaseDate: ""
+#     website: ""
+#     summary: ""
+skills:
+  - name: "Pentesting."
+    level: "Professional"
+    keywords:
+      - "Windows."
+      - "Linux"
+      - "Red"
+  - name: "Programming languages"
+    level: "Intermediate"
+    keywords:
+      - "Python"
+      - "Bash"
+      - "SQL"
+  - name: "Others"
+    level: "Intermediate"
+    keywords:
+      - "Docker"
+      - "VSC"
+      - "GitHub/Git"
+      - "VMWare"
+      - "Microsoft-Office"
+      - "AWS"
+  - name: "Sociability"
+    level: "Master"
+    keywords:
+      - "Leadership"
+      - "Affable"
+languages:
+  - language: "Spanish"
+    fluency: "Native speaker"
+  - language: "English"
+    fluency: "Fluent"
+interests:
+  - name: "Activity"
+    keywords:
+      - "CTF's"
+      - "Music"
+      - "Videogames"
+  - name: "Reading"
+    keywords:
+      - "J. R. R. Tolkien"
+      - "George R. R. Martin"
+      - "Andrzej Sapkowski"
+  - name: "Gaming"
+    keywords:
+      - "Board Games"
+      - "Hearthstone"
+      - "MarvelSnap"
+      - "Call of Dutty: Mobile"
+# references:
+#   - name: ""
+#     reference: >
+#       
+#       
+
+# <https://jsonresume.org/>
