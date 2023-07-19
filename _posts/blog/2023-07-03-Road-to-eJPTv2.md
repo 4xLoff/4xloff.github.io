@@ -20,6 +20,11 @@ Recommended Academy Modules
 [Tier 0]: https://academy.hackthebox.com/modules
 [Path]: https://tryhackme.com/paths
 
+<div>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="4xLoff" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00"></script>
+</div>
+
+
 ---
 
 <!--more-->
@@ -183,6 +188,24 @@ Continue with [Write Up Friendly.](2023-01-22-Friendly-HMVM.md){:.heading.flip-t
 
 ---
 
+## Write Up Superhuman
+
+![list](/assets/img/superhuman/superhuman.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Superhuman.](2023-02-06-Superhuman-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Cyborg 
+
+![list]( /assets/img/cybord/cyborg.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Cyborg.](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up Connection
 
 ![list](/assets/img/connection/connection.png){:.lead width="800" height="100" loading="lazy"}
@@ -251,6 +274,16 @@ Continue with [Write Up Hommie.](2023-01-30-Hommie-HMVW.md){:.heading.flip-title
 ![list](/assets/img/lazyadmin/lazy.jpeg){:.lead width="800" height="100" loading="lazy"}
 
 Continue with [Write Up LazyAdmin.](2023-04-04-LazyAdmin-THM.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+
+## Write Up Teacher
+
+![list](/assets/img/teacher/teacher.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Teacher.](2023-02-07-Teacher-HMVW.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -428,14 +461,6 @@ Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 
 ---
 
-## Write Up DarkHole: 2 - VulnHub - Easy
-
-![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
 
 ## Write Up Durian: 1 - VulnHub - Easy
 
@@ -464,50 +489,6 @@ Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 
 ---
 
-## Write Up Symfonos 1 - VulnHub - Easy
-
-![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
-
-## Write Up Symfonos 2 - VulnHub - Medium
-
-![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
-
-## Write Up Symfonos 3 - VulnHub - Medium
-
-![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
-
-## Write Up Symfonos 4 - VulnHub - Medium
-
-![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
-
-## Write Up Symfonos 5 - VulnHub - Medium
-
-![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
 
 ## Write Up Basic Pentesting 
 
@@ -532,15 +513,6 @@ Continue with [Write Up Pickle Rick.](2022-09-15-Pickle_Rick-THM.md){:.heading.f
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
 Continue with [Write Up Brooklyn Nine Nine.](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
-{:.read-more}
-
----
-
-## Write Up Cyborg 
-
-![list]( /assets/img/cybord/cyborg.jpg){:.lead width="800" height="100" loading="lazy"}
-
-Continue with [Write Up Cyborg.](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -673,8 +645,14 @@ Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 
 ---
 
+<div>
+  <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="4xLoff" data-description="Support me on Buy me a coffee!" data-message="Gracias por el  apoyo!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+</div>
+
+---
+
 ```bash
-🎉 Felicitaciones ya has completado Certification eJPTv2 de HackTheBox 🎉
+🎉 Felicitaciones ya has completado Certification eJPTv2. 🎉
 ```
 {:.centered}
 

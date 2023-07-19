@@ -440,6 +440,72 @@ Continue with [Write Up Union.](2022-12-01-Union-HTB.md){:.heading.flip-title}
 
 ***
 
+## Write Up DarkHole: 1 - VulnHub - Easy
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up DarkHole: 2 - VulnHub - Easy
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+
+## Write Up Symfonos 1 - VulnHub - Easy
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Symfonos 2 - VulnHub - Medium
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Symfonos 3 - VulnHub - Medium
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Symfonos 4 - VulnHub - Medium
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Symfonos 5 - VulnHub - Medium
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+
+
 ```bash
 🎉 Felicitaciones ya has completado eWPTXv2-Track de HackTheBox 🎉
 ```
