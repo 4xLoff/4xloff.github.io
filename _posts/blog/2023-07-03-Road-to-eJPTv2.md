@@ -210,11 +210,29 @@ Continue with [Write Up Alzheimer.](2023-02-01-Alzheimer-HMVW.md){:.heading.flip
 
 ---
 
+## Write Up Visions
+
+![list](/assets/img/visions/visions.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Visions.](2023-02-04-Visions-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up Wgel 
 
 ![list](/assets/img/wgel/wgel.png){:.lead width="800" height="100" loading="lazy"}
 
 Continue with [Write Up Wgel.](2023-04-01-Wgel-THM.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Doll
+
+![list](/assets/img/doll/doll.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Doll.](2023-02-03-Doll-HMVW.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -255,6 +273,16 @@ Continue with [Write Up Jabita.](2022-10-18-Jabita-HMVM.md){:.heading.flip-title
 {:.read-more}
 
 ---
+
+## Write Up Crack
+
+![list](/assets/img/crack/crack.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Crack.](2023-02-02-Crack-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 
 ## Write Up BaseME 
 
@@ -499,10 +527,6 @@ Continue with [Write Up Pickle Rick.](2022-09-15-Pickle_Rick-THM.md){:.heading.f
 
 ---
 
-
-
-
-
 ## Write Up Brooklyn Nine Nine - Try Hack Me - Easy
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
@@ -511,9 +535,6 @@ Continue with [Write Up Brooklyn Nine Nine.](2023-06-02-Road-to-eJPTv2.md){:.hea
 {:.read-more}
 
 ---
-
-
-
 
 ## Write Up Cyborg 
 
