@@ -219,6 +219,15 @@ Continue with [Write Up Bounty Hacker.](2023-04-06-Bounty-Hacker-THM.md){:.headi
 
 ---
 
+## Write Up Zday
+
+![list](/assets/img/zday/oday.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Zday.](_posts\blog\2023-02-09-Zday-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up Alzheimer 
 
 ![list](/assets/img/alzheimer/alzheimer.png){:.lead width="800" height="100" loading="lazy"}
@@ -321,6 +330,15 @@ Continue with [Write Up BaseME.](2022-10-19-BaseME-HMVM.md){:.heading.flip-title
 
 ---
 
+## Write Up Otte
+
+![list](/assets/img/otte/otte.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Otte.](2023-02-05-otte-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up Five 
 
 ![list](/assets/img/five/five.png){:.lead width="800" height="100" loading="lazy"}
@@ -348,11 +366,29 @@ Continue with [Write Up Arroutada.](2023-01-25-Medusa-HMVW.md){:.heading.flip-ti
 
 ---
 
+## Write Up Alive
+
+![list](/assets/img/alive/alive.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Alive.](2023-02-10-Alive-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up Medusa
 
 ![list](/assets/img/medusa/medusa.png){:.lead width="800" height="100" loading="lazy"}
 
 Continue with [Write Up Medusa.](2023-01-25-Medusa-HMVW.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Attack
+
+![list](/assets/img/attack/attack.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Attack.](2023-02-08-Attack-HMVW.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -640,6 +676,8 @@ Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 
 
 ---
+
+
 
 ```bash
 🎉 Felicitaciones ya has completado Certification eJPTv2. 🎉

@@ -5,7 +5,7 @@ subtitle: "eJPTv2 Track "
 category: Blog
 tags: [Easy,Genin,Linux,HMVM,Reverse-Shell,PHP,FTP,SUDO,GTFObins,Weak-Credentials,Reconnaissance,Protocols,Brute-Forcing,Directory-Traversalt,Fuzzing-Web,Path-Hijacking,eJPTv2]
 image:
-  path: \assets\img\arronauth\arronauta.jpg
+  path: /assets/img/arronauth/arronauta.jpg
 ---
 
 ***

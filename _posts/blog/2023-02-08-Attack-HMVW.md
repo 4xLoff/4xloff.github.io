@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Write Up Superhuman. "
+title: "Write Up Attack. "
 subtitle: "eJPTv2 Track "
 category: Blog
-tags: [Medium,Chunin,Linux,HMVM,SSH,CronJob,Hydra,GTFOBins,Reconnaissance,Brute-Forcing,ssh2john,Protocols,zip2john,Crunch,eJPTv2]
+tags: [Medium,Chunin,Linux,HMVM,SSH,GTFOBins,WireShark,Reconnaissance,QR,Protocols,eJPTv2]
 image:
-  path: /assets/img/superhuman/superhuman.png
+  path: /assets/img/attack/attack.png
 ---
 
 ***
@@ -20,25 +20,15 @@ image:
 ## Reconnaissance
 
 
-### Ping Sweep
-
-
-```bash
-sudo arp-scan -I ens33 --localnet
-```
-
-![list](/assets/img/superhuman/1.png){:.lead width="800" height="100" loading="lazy"}
-
-
 ### Nmap
 
 
 ```bash
-nmap --open -p- -Pn -n -T4 -vvv -n 198.168.100.49 -oN allports
+nmap --open -p- -Pn -n -T4 -vvv -n 198.168.1.42 -oN allports
 ```
 
 
-![list](/assets/img/superhuman/2.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/2.png){:.lead width="800" height="100" loading="lazy"}
 
 
 
@@ -46,10 +36,10 @@ nmap --open -p- -Pn -n -T4 -vvv -n 198.168.100.49 -oN allports
 
 
 ```bash
-nmap -sVC -Pn -n -p22,80 198.168.100.49 -oN target
+nmap -sVC -Pn -n -p21,22,80 198.168.1.42 -oN target
 ```
 
-![list](/assets/img/superhuman/3.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/1.png){:.lead width="800" height="100" loading="lazy"}
 
 
 ***
@@ -60,70 +50,90 @@ nmap -sVC -Pn -n -p22,80 198.168.100.49 -oN target
 ### HTTP TCP-80
 
 
-Con el puerto 22 no podemos hacer nada asi que vamosa a husmear el puerto 80,  esta vacia, entonce vamos a fuzzear y encontramos algunos archivos  pero el interesante es **/notes-tips.txt** porque tine una especie de codigo encriptado que pone **** no sabes en que pero vamos a usar [decode.fr] para decodificarlo.
+Al husmear el puerto 80, solo pone **que hay una rchivo llamado capture y que no se acierda la extesion**, como sabemos por lo general ese nombre por defectova aocmpañado de la  **extension.pcap** por lo que fuzzearemos para ver que encontramos.
 
 
-![list](/assets/img/superhuman/7.png){:.lead width="800" height="100" loading="lazy"}
-
-
-[decode.fr]: https://www.dcode.fr/cipher-identifier
-
-
-![list](/assets/img/superhuman/4.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/4.png){:.lead width="800" height="100" loading="lazy"}
 
 
 {:.note}
-El texto decifrado es  **salome doesn't want me, I'm so sad... i'm sure god is dead...I drank 6 liters of Paulaner.... too drunk lol. I'llwrite her a poem and she'll desire me. I'll name it salome_and_?? I don't know.I must not forget to save it and put a good extension because I don't have much storage**.
+Pista.
 
 
-![list](/assets/img/superhuman/5.png){:.lead width="800" height="100" loading="lazy"}
-
-
-Es una nota de desamor lo que dice esque lo va a guardar pero no se acuerda la extencion, ademas pone su nombre **salome an ??** ** que es le la chica por la cual esta bebiendo  y debemos descubri en nombre de el para eso vamos usar crunch o ffuf `crunch 13 13 -t salome_and_@@ > name.txt` entonces vamos afuzzear tambien la extension.
-
-
-![list](/assets/img/superhuman/6.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/5.png){:.lead width="800" height="100" loading="lazy"}
 
 
 {:.note}
-La extension es **.zip**
+Efectivamente el archivo se llama **capture.pcap**.
 
 
-TratamoS de extraer el **salome_and_me.zip** pero nenesitamos una contraseña asi que vamos a usar **zip2john** para lograrlo.
+En este punto podemos usar tsark o Wireshark para analizarlo, pero  ami me gusta mas wireshark.
 
 
-![list](/assets/img/superhuman/8.png){:.lead width="800" height="100" loading="lazy"}
+### WireShark
 
 
-![list](/assets/img/superhuman/9.png){:.lead width="800" height="100" loading="lazy"}
-
-
-![list](/assets/img/superhuman/10.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/6.png){:.lead width="800" height="100" loading="lazy"}
 
 
 {:.note}
-La password es **turtle**.
+Buscando por encimaya podemos ver credenciales **teste:simple**, ademas, notamos un archivo llamado **mysecret.png**, y un tercero llamado **filexxx.zip**.
 
 
-![list](/assets/img/superhuman/11.png){:.lead width="800" height="100" loading="lazy"}
-
-
-{:.note}
-En el interior hay una nota **salome_and_me.txt** que pone **My name is fred, And tonight I'm sad, lonely and scared, Because my love Salome prefers schopenhauer, asshole, I hate him he's stupid, ugly and a peephole, My darling I offered you a great switch, And now you reject my ove, bitch I don't give a fuck, I'll go with another lady, And she'll call me BABY!**.
-
-
-![list](/assets/img/superhuman/12.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/7.png){:.lead width="800" height="100" loading="lazy"}
 
 
 {:.note}
-Lo que yo hice aki es crear un filtro para hacer un diccionario la password es **schopenhauer**, pude haberla  deducido ah y el usuario  es fred, por cierto.
+Con las  credenciales nos conectamosa al servidor y descargamos el archivo **missecret.png** y **note.txt** que presumimos que son los mismos de la captura lo que nos hace pensar que es una especie captura del sitema que contempla el ftp y otras rutas por el aerchivo filexxx.zip no esta, tambie ya sabemos que hay dos usuarios mas **kratos** y **jackob**.
 
 
-![list](/assets/img/superhuman/13.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/10.png){:.lead width="800" height="100" loading="lazy"}
 
 
 {:.note}
-Nos conectamos como **fred** por ssh y buscamos la  flag en su directorio.
+En teste no podemos hacer nada.
+
+
+![list](/assets/img/attack/11.png){:.lead width="800" height="100" loading="lazy"}
+
+
+{:.note}   
+Contenido de note.txt pero no nos dice nada.
+
+
+La nota pone ***i need to find the file**, nada relevante, pero aun nos falta  ver el archivo **filexxx.zip** que podemos estraerlo de wireshark o de la paginaweb, si queremos verlo podemos fuxxearlo pero por el nombre no creo que este en el rockyou.txt asi que lo bajamos de la pagina web, me di cuenta que los tamaños son distintos, el de wireshark es la id_rsa y de la web es **mycode.png.** una imagen que es un codigo QR.
+
+
+![list](/assets/img/attack/12.png){:.lead width="800" height="100" loading="lazy"}
+
+
+{:.note}
+Lo que debemos hacer es  exportar el objeto **filexxx.zip** y guardarlo, al  abrirlo es una clave privada.
+
+
+![list](/assets/img/attack/13.png){:.lead width="800" height="100" loading="lazy"}
+
+
+
+![list](/assets/img/attack/14.png){:.lead width="800" height="100" loading="lazy"}
+
+
+
+![list](/assets/img/attack/16.png){:.lead width="800" height="100" loading="lazy"}
+
+
+{:.note}
+QR que desiframos en internet y vemos una ruta **jacobattack.txt**.
+
+
+![list](/assets/img/attack/2023-06-28_21-47.png){:.lead width="800" height="100" loading="lazy"}
+
+
+![list](/assets/img/attack/18.png){:.lead width="800" height="100" loading="lazy"}
+
+
+{:.note}
+Y nos conectamos con jacob. por ssh, buscamos la flag en su escritorio.
 
 
 ***
@@ -140,20 +150,48 @@ Si no encontramos resultados significativos con las acciones anteriores, procede
 También realizamos un análisis manual del sistema, buscando configuraciones inseguras, archivos sensibles o cualquier otra anomalía que pueda indicar una posible vulnerabilidad o actividad maliciosa.
 
 
-Buscando por capabilities node tiene este privileguio, asi que vamos GTFOBins.
+### User Pivoting
+
+Sudo -l, nos dice que **kratos** puede ejecutar un script bash sin nesesidad de proprocionar contraseñas.
 
 
-![list](/assets/img/superhuman/14.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/attack/21.png){:.lead width="800" height="100" loading="lazy"}
+
+
+![list](/assets/img/attack/22.png){:.lead width="800" height="100" loading="lazy"}
 
 
 {:.note}
-Ejecutamos el comado, lo que nos da una shell como root y ya podemos buscar la falag en su escritorio.
+El script ejecuta una bash asi que  consegumos una shell como **kratos**.
 
+
+![list](/assets/img/attack/24.png){:.lead width="800" height="100" loading="lazy"}
+
+
+sudo -l nos dice que  root pude ejecutar **/usr/sbin/cppw** sin nesesidad de proprcionar contraseñas, pero esto no esta en GTFObins asi que debemos ver  la ayuda, que nos dice que **/usr/sbin/cppw** se utiliza para cambiar la contraseña de un usuario en sistemas UNIX/Linux.
+
+
+![list](/assets/img/attack/25.png){:.lead width="800" height="100" loading="lazy"}
+
+
+![list](/assets/img/attack/26.png){:.lead width="800" height="100" loading="lazy"}
+
+
+Para consegurlo con openssl passwd creamos una contraseña sencilla, copiamos en **/etc/passwd** ya que si lo podemos ver pero lo llevamos a nuestra maquina le  incrustramos la clave que generamos la subimos al servidor y usamos **/usr/sbin/cppw** y ya somos root.
+
+![list](/assets/img/attack/27.png){:.lead width="800" height="100" loading="lazy"}
+
+
+![list](/assets/img/attack/28.png){:.lead width="800" height="100" loading="lazy"}
+
+
+{:.note}
+Ya podemos buscar la flag en elescritorio de root.
 
 ***
 
 ```bash
-🎉 Felicitaciones ya has comprometido Superhuman de Hack My VM 🎉
+🎉 Felicitaciones ya has comprometido Attack de Hack My VM 🎉
 ```
 {:.centered}
 
