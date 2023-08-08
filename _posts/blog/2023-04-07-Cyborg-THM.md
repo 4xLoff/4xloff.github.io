@@ -34,7 +34,7 @@ nmap --open -p- -Pn -n -T4 -vvv -n 10.10.237.236 -oN allports
 
 ### Services and Versions
 
-```bash
+```bash 
 nmap -sVC -Pn -n -p22,80 10.10.237.236 -oN target
 ```
 
