@@ -46,7 +46,7 @@ The first reason, in my opinion, is because you have a strong desire to learn, a
 ![list](/assets/img/ejpttrack/cheet.png){:.lead width="800" height="100" loading="lazy"}
 
 
-[cheetsheet]: (https://blog.syselement.com/ine/courses/ejpt/ejpt-cheatsheet)
+[cheatsheet]: (https://blog.syselement.com/ine/courses/ejpt/ejpt-cheatsheet)
 
 ## Exam Recommendations
 
