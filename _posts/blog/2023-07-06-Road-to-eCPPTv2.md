@@ -87,6 +87,24 @@ Continue with [Write Up Postman.](2023-07-06-Road-to-eECPPTv2.md){:.heading.flip
 
 ---
 
+## Write Up Synfonos1
+
+![list](/assets/img/synfonos1/synfonos1.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos1](2023-07-06-Road-to-eECPPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos2
+
+![list](/assets/img/synfonos2/synfonos2.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos2](2023-07-06-Road-to-eECPPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up October
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
