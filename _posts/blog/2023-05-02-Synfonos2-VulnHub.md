@@ -3,7 +3,7 @@ layout: post
 title: "Write Up Synfonos2. "
 subtitle: "eCPPTv2 Track "
 category: Blog
-tags: [Medium,Chunin,Linux,VulnHub,FTP,LFI,SUDO,Port-Forwarding,Brute-Forcing,Reconnaissance,Protocols,Log-Analysis,SAMBA,eCPPTv2]
+tags: [Medium,Chunin,Linux,VulnHub,FTP,LFI,SUDO,Port-Forwarding,Brute-Forcing,Reconnaissance,User-Pivoting,Protocols,Log-Analysis,SAMBA,eCPPTv2]
 image:
   path: /assets/img/synfonos2/synfonos2.png
 ---
@@ -192,6 +192,9 @@ Creamos el payload como dice el script de python.
 
 {:.note}
 Ejecutamos y nos ponemos a la escucha con netca esto nos debe dar una reverse-shell como el usuario `cronos`.
+
+
+### User Pivoting
 
 
 Ya somos el usuario `cronos` y haciendo `sudo -l` nos dice que root puede ejecutar mysql sin proprocionar contraseña.

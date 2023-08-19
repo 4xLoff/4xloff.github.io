@@ -91,7 +91,7 @@ Continue with [Write Up Postman.](2023-07-06-Road-to-eECPPTv2.md){:.heading.flip
 
 ![list](/assets/img/synfonos1/synfonos1.png){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up Synfonos1](2023-07-06-Road-to-eECPPTv2.md){:.heading.flip-title}
+Continue with [Write Up Synfonos1](2023-05-01-Synfonos1-VulnHub.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -100,7 +100,35 @@ Continue with [Write Up Synfonos1](2023-07-06-Road-to-eECPPTv2.md){:.heading.fli
 
 ![list](/assets/img/synfonos2/synfonos2.png){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up Synfonos2](2023-07-06-Road-to-eECPPTv2.md){:.heading.flip-title}
+Continue with [Write Up Synfonos2](2023-05-02-Synfonos2-VulnHub.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos3
+
+![list](/assets/img/synfonos3/synfonos3.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos3](2023-05-03-Synfonos3-VulnHub.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos4
+
+![list](/assets/img/synfonos4/synfonos4.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos4](2023-05-04-Synfonos4-VulnHub.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+
+## Write Up Synfonos5
+
+![list](/assets/img/synfonos5/synfonos5.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos5](2023-05-02-Synfonos5-VulnHub.md){:.heading.flip-title}
 {:.read-more}
 
 ---
