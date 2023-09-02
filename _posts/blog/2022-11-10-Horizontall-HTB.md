@@ -156,5 +156,5 @@ Back to [Certification eJPTv2](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-titl
 
 ***
 
-Back to [Certification eWPT](){:.heading.flip-title}
+Back to [Certification eWPT](2023-07-04-Road-to-eWPT.md){:.heading.flip-title}
 {:.read-more}

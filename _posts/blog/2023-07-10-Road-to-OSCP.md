@@ -16,6 +16,15 @@ image:
 
 ---
 
+## Write Up Election: 1 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
 ## Write Up VulnNet: Roasted
 
 ![list](/assets/img/vulnnet/vulnnet.png){:.lead width="800" height="100" loading="lazy"}
@@ -24,6 +33,111 @@ Continue with [Write Up RootMe.](2022-09-22-Vulnnet_Roasted-THM.md){:.heading.fl
 {:.read-more}
 
 ---
+
+## Write Up Tollbox
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tollbox.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+## Write Up Netmon
+
+![list](/assets/img/netmon/Captura de pantalla (142).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Netmon.](_posts\blog\2022-09-11-Netmon-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+
+
+## Write Up Blue
+
+![list](/assets/img/blue/blue.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](_posts\blog\2022-09-03-Blue-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Granny
+
+![list](/assets/img/granny/Captura%20de%20pantalla%20(304).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](2022-09-12-Granny-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+
+***
+
+## Write Up Grandpa
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Blue
+
+![list](/assets/img/blue/blue.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](_posts\blog\2022-09-03-Blue-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Legacy
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Love
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Love.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Tabby
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tabby.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Devel
+
+![list](/assets/img/devel/Captura%20de%20pantalla%20(276).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Devel.](2022-12-31-Devel-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up ScriptKiddie
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up ScriptKiddie.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+
+
+
+
 
 ## Write Up Forest
 
@@ -42,6 +156,15 @@ Continue with [Write Up Support.](2022-10-06-Support-HTB.md){:.heading.flip-titl
 {:.read-more}
 
 ---
+
+## Write Up Driver
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Driver.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
 
 ## Write Up Sauna
 
@@ -216,6 +339,15 @@ Continue with [Write Up Cascade.](2023-07-10-Road-to-OSCP.md){:.heading.flip-tit
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
 Continue with [Write Up Streamio.](2023-07-10-Road-to-OSCP.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up GoodGames
+
+![list](/assets/img/goodgames/Captura%20de%20pantalla%20(305).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up GoodGames.](2022-09-26-Goodgames-HTB.md){:.heading.flip-title}
 {:.read-more}
 
 ---

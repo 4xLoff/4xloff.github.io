@@ -17,6 +17,11 @@ Recommended Academy Modules
 - El [Path] de Try Hack Me Web Fundamentals.
 - El [Path] de Try Hack Me CompTIA Pentest+.
 
+Recommended paid resources
+
+Cuso de Introducción al Hacking de [hack4u.io] Academia de **s4vitar**.
+
+[hack4u.io]: https://hack4u.io/cursos/introduccion-al-hacking/
 [Tier 0]: https://academy.hackthebox.com/modules
 [Path]: https://tryhackme.com/paths
 
@@ -26,61 +31,6 @@ Recommended Academy Modules
 
 * this unordered seed list will be replaced by the toc
 {:toc}
-
----
-
-Recommended paid resources
-
-Cuso de Introducción al Hacking de [hack4u.io] Academia de **s4vitar**.
-
-Maquinas de Hack the box para parcticar esta certificacin
-
-| Maquina.       | Dificultad.|
-| -------------- | ---------- |
-| delivery       | easy       |
-| horizontall    | easy       |
-| granpa         | easy       |
-| legacy         | easy       |
-| niblles        | easy       |
-| nodeblog       | easy       |
-| antique        | easy       |
-| tabby          | easy       |
-| blocky         | easy       |
-| valiodation    | easy       |
-| love           | easy       |
-| driver         | easy       |
-| mirai          | easy       |
-| irked          | easy       |
-| knife          | easy       |
-| lame           | easy       |
-| devel          | easy       |
-| shocker        | easy       |
-| granny         | easy       |
-| scriptkidie    | easy       |
-| netmon         | easy       |
-| blue           | easy       |
-| nunckucks      | easy       |
-| jerry          | easy       |
-| bolt           | medium     |
-| node           | medium     |
-| chaos          | medium     |
-| solidstate     | medium     |
-| jeeves         | medium     |
-| devzat         | medium     |
-| tenten         | medium     |
-| apocalipsis    | medium     |
-| waldo          | medium     |
-| poison         | medium     |
-| hawk           | medium     |
-| stratosfher    | medium     |
-| haircut        | medium     |
-| deveops        | medium     |
-| union          | medium     |
-
-
-
-[hack4u.io]: https://hack4u.io/cursos/introduccion-al-hacking/
-
 
 ---
 
@@ -194,9 +144,9 @@ Continue with [Write Up Superhuman.](2023-02-06-Superhuman-HMVW.md){:.heading.fl
 
 ## Write Up Cyborg 
 
-![list]( /assets/img/cybord/cyborg.jpg){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/cybord/cyborg.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up Cyborg.](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up Cyborg.](2023-04-07-Cyborg-THM.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -282,6 +232,365 @@ Continue with [Write Up LazyAdmin.](2023-04-04-LazyAdmin-THM.md){:.heading.flip-
 
 ---
 
+## Write Up Lame
+
+![list](/assets/img/lame/Captura de pantalla (139).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Lame.](_posts\blog\2022-09-08-Lame-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Jerry
+
+![list](/assets/img/jerry/Captura de pantalla (140).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Jerry.](_posts\blog\2022-09-05-Jerry-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Knife
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Knife.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Nibbles
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Nibbles.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Netmon
+
+![list](/assets/img/netmon/Captura de pantalla (142).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Netmon.](_posts\blog\2022-09-11-Netmon-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Blue
+
+![list](/assets/img/blue/blue.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Blue.](_posts\blog\2022-09-03-Blue-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Legacy
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Legacy.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Tollbox
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tollbox.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Shocker
+
+![list](/assets/img/shocker/Captura%20de%20pantalla%20(275).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Shocker.](_posts\blog\2022-11-28-Shocker-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Devel
+
+![list](/assets/img/devel/Captura%20de%20pantalla%20(276).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Devel.](2022-12-31-Devel-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Granny
+
+![list](/assets/img/granny/Captura%20de%20pantalla%20(304).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](_posts\blog\2022-09-12-Granny-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Grandpa
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Grandpa.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Blocky
+
+![list](/assets/img/blocky/Captura%20de%20pantalla%20(287).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Blocky.](2022-09-04-Blocky-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Love
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Love.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Hawk
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Hawk.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Driver
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Driver.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Tabby
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tabby.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Antique 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Antique.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up NodeBlog
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up NodeBlog.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up GoodGames
+
+![list](/assets/img/goodgames/Captura%20de%20pantalla%20(305).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up GoodGames.](2022-09-26-Goodgames-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Horizontall
+
+![list](/assets/img/horizontal/hori.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Horizontall.](2022-11-10-Horizontall-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Return
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Return.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up ScriptKiddie
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up ScriptKiddie.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Nunckucks
+
+![list](/assets/img/nunchucks/Captura%20de%20pantalla%20(273).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Nunckucks.](_posts\blog\2022-12-24-Nunchucks-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Validation
+
+![list](/assets/img/validation/Captura%20de%20pantalla%20(295).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Validation.](2022-10-06-Validation-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Union
+
+![list](/assets/img/union/Captura%20de%20pantalla%20(272).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Union.](2022-12-01-Union-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Apocalyst
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Apocalyst.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Poison
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Poison.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Tenten
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tenten.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Waldo
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Waldo.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up SolidState
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up SolidState.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Chaos
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Chaos.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Node
+
+![list](/assets/img/node/Captura%20de%20pantalla%20(326).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Node.](2022-09-07-Node-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Delivery
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Delivery.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Jeeves
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Jeeves.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Bolt
+
+![list](/assets/img/bolt/Captura%20de%20pantalla%20(310).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Bolt.](2022-12-05-Bolt-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Devzat
+
+![list](/assets/img/bolt/Captura%20de%20pantalla%20(310).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Devzat.](2022-12-05-Bolt-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Stratosphere 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Stratosphere.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Static
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Static.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Flustered
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
 
 ## Write Up Teacher
 
@@ -301,7 +610,6 @@ Continue with [Write Up Gallery.](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-t
 
 ---
 
-
 ## Write Up Jabita
 
 ![list](/assets/img/jabita/jabita.jpg){:.lead width="800" height="100" loading="lazy"}
@@ -319,7 +627,6 @@ Continue with [Write Up Crack.](2023-02-02-Crack-HMVW.md){:.heading.flip-title}
 {:.read-more}
 
 ---
-
 
 ## Write Up BaseME 
 
@@ -447,75 +754,165 @@ Continue with [Write Up Startup.](2023-04-03-Startup-THM.md){:.heading.flip-titl
 
 ---
 
-## Write Up Twisted - Hack My VM - Medium
+## Write Up Twisted
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up Twisted.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+
+---
+
+## Write Up Corrosion: 1
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Corrosion: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-## Write Up ICA: 1 - VulnHub - Easy
+## Write Up Corrosion: 2
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up Corrosion: 2.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-## Write Up Monitoring: 1 - VulnHub - Easy
+## Write Up ICA: 1
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up ICA: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-## Write Up Venom: 1 - VulnHub - Easy
+## Write Up DarkHole: 1
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up DarkHole: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-## Write Up Hack Me Please: 1 - VulnHub - Easy
+## Write Up Monitoring: 1 
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up Monitoring: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-
-## Write Up Durian: 1 - VulnHub - Easy
+## Write Up Venom: 1 
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up Venom: 1 .](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-## Write Up Election: 1 - VulnHub - Easy
+## Write Up Hack Me Please: 1
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up  Hack Me Please: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
 
-## Write Up RickdiculouslyEasy: 1 - VulnHub - Easy
+## Write Up Durian: 1 
 
 ![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
+Continue with [Write Up Durian: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Election: 1 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Election: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up RickdiculouslyEasy: 1 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up RickdiculouslyEasy: 1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos1
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos1.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos2
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos2.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos3
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos3.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos4
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos4.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos5
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos5.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Synfonos6
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos5.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up BuffEMR
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Synfonos5.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ---
@@ -674,10 +1071,7 @@ Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 Continue with [Write Up .](2023-06-02-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
-
 ---
-
-
 
 ```bash
 🎉 Felicitaciones ya has completado Certification eJPTv2. 🎉

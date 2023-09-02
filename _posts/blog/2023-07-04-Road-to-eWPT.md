@@ -14,7 +14,43 @@ image:
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+---
 
+## Write Up Durian: 1 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up DarkHole: 1
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Hack Me Please: 1
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Venom: 1 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
 
 ## Write Up Pandora
 
@@ -24,6 +60,42 @@ Continue with [Write Up Pandora.](2022-10-13-Pandora-HTB.md){:.heading.flip-titl
 {:.read-more}
 
 ---
+
+## Write Up Tollbox
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tollbox.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Shocker
+
+![list](/assets/img/shocker/Captura%20de%20pantalla%20(275).png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Shocker.](_posts\blog\2022-11-28-Shocker-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Tabby
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Tabby.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Hawk
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Hawk.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
 
 ## Write Up Nahamstore
 
@@ -87,6 +159,16 @@ Continue with [Write Up Granny.](2022-09-12-Granny-HTB.md){:.heading.flip-title}
 {:.read-more}
 
 ***
+
+## Write Up Grandpa
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Granny.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
 
 ## Write Up Netmon
 
@@ -296,6 +378,15 @@ Continue with [Write Up Shared.](2022-10-15-Shared-HTB.md){:.heading.flip-title}
 
 ***
 
+## Write Up Poison
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Poison.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
 ## Write Up Outdated
 
 ![list](/assets/img/outdated/Captura%20de%20pantalla%20(188).png){:.lead width="800" height="100" loading="lazy"}
@@ -429,13 +520,22 @@ Continue with [Write Up Time.](2022-12-07-Time-HTB.md){:.heading.flip-title}
 Continue with [Write Up Bolt.](2022-12-05-Bolt-HTB.md){:.heading.flip-title}
 {:.read-more}
 
-***
+---
 
 ## Write Up Union
 
 ![list](/assets/img/union/Captura%20de%20pantalla%20(272).png){:.lead width="800" height="100" loading="lazy"}
 
 Continue with [Write Up Union.](2022-12-01-Union-HTB.md){:.heading.flip-title}
+{:.read-more}
+
+***
+
+## Write Up Stratosphere 
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Stratosphere.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
 {:.read-more}
 
 ***

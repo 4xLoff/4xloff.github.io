@@ -15,6 +15,26 @@ image:
 
 ---
 
+## Write Up Corrosion: 1
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up Corrosion: 2
+
+![list](/assets/img/tags/proximamente.jpg){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up Flustered.](2023-07-03-Road-to-eJPTv2.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+
+
 ## Write Up Blocky
 
 ![list](</assets/img/jerry/Captura%20de%20pantalla%20(140).png>){:.lead width="800" height="100" loading="lazy"}
@@ -42,11 +62,11 @@ Continue with [Write Up OpenSource.](2022-10-07-Opensource-HTB.md){:.heading.fli
 
 ***
 
-## Write Up Goodgames
+## Write Up GoodGames
 
 ![list](/assets/img/goodgames/Captura%20de%20pantalla%20(305).png){:.lead width="800" height="100" loading="lazy"}
 
-Continue with [Write Up Goodgames.](2022-09-26-Goodgames-HTB.md){:.heading.flip-title}
+Continue with [Write Up GoodGames.](2022-09-26-Goodgames-HTB.md){:.heading.flip-title}
 {:.read-more}
 
 ***
