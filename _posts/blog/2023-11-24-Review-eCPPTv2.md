@@ -94,14 +94,11 @@ Personally, this is the method I've used the most because it's the one I master 
 - [Preparación-eCPPTv2].
   [Preparación-eCPPTv2]: https://www.youtube.com/watch?v=_7b_GQDfA5M&pp=ygUPZWNwcHR2MiBzNHZpdGFy
 - [PIVOTING-DESDE-CERO-#1].
-  [PIVOTING-DESDE-CERO-#1]: https://www.youtube.com/watch?v=L1jSoCcvRY4&pp=ygUPZWNwcHR2MiBzNHZpdGFy 
-  -[PIVOTING-DESDE-CERO-#2].
+  [PIVOTING-DESDE-CERO-#1]: https://www.youtube.com/watch?v=L1jSoCcvRY4&pp=ygUPZWNwcHR2MiBzNHZpdGFy -[PIVOTING-DESDE-CERO-#2].
   [PIVOTING-DESDE-CERO-#2]: https://www.youtube.com/watch?v=E4eUdAd6tAM&t=5056s&pp=ygUPZWNwcHR2MiBzNHZpdGFy
 - [PIVOTING-DESDE-CERO-#3].
-  [PIVOTING-DESDE-CERO-#3]: https://www.youtube.com/watch?v=sjUgh__Utvs&t=2483s&pp=ygUPZWNwcHR2MiBzNHZpdGFy 
-  -[PIVOTING-DESDE-CERO-#4].
-  [PIVOTING-DESDE-CERO-#4]: https://www.youtube.com/watch?v=Mc4FuBRyybc&t=3768s&pp=ygUPZWNwcHR2MiBzNHZpdGFy 
-  -[Simulación-de-examen-eCPPTv2].
+  [PIVOTING-DESDE-CERO-#3]: https://www.youtube.com/watch?v=sjUgh__Utvs&t=2483s&pp=ygUPZWNwcHR2MiBzNHZpdGFy -[PIVOTING-DESDE-CERO-#4].
+  [PIVOTING-DESDE-CERO-#4]: https://www.youtube.com/watch?v=Mc4FuBRyybc&t=3768s&pp=ygUPZWNwcHR2MiBzNHZpdGFy -[Simulación-de-examen-eCPPTv2].
   [Simulación-de-examen-eCPPTv2]: https://www.youtube.com/watch?v=Q7UeWILja-g&t=20906s&pp=ygUPZWNwcHR2MiBzNHZpdGFy
 
 And there are many more resources on the internet, and you might wonder, how does this help me? Well, as I mentioned earlier, practice makes perfect, so you will do it at three levels. Study well how these tools, [Chisel] and [Socat], function. Replicating the lab will be easier if you understand something about the tool.s
@@ -135,16 +132,16 @@ Believe me, I assure you that if you practice a lot, you will master pivoting wi
 
 #### Others
 
-- [eCPPTv2-Todo-lo-que-necesitas-saber] 
-[eCPPTv2-Todo-lo-que-necesitas-saber]: (https://www.youtube.com/watch?v=yuQn96veqZc&t=1913s)
+- [eCPPTv2-Todo-lo-que-necesitas-saber]
+  [eCPPTv2-Todo-lo-que-necesitas-saber]: (https://www.youtube.com/watch?v=yuQn96veqZc&t=1913s)
 - [Primer-Laboratorio-Tipo-eCPPTv2]
-[Primer-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=SjwyIY2OdmU&t=6950s)
+  [Primer-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=SjwyIY2OdmU&t=6950s)
 - [Segundo-Laboratorio-Tipo-eCPPTv2]
-[Segundo-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=9G0He3Bt4g4&t=8s)
-- [Tercer-Laboratorio-Tipo-eCPPTv2] 
-[Tercer-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=0KN1GzeVVmI&t=1301s)
-- [Laboratorio-Pivoting-eCPPT] 
-[Laboratorio-Pivoting-eCPPT]: (chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/djNgEQaK#SMkGghJ6uA4dStqIypCOQw)
+  [Segundo-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=9G0He3Bt4g4&t=8s)
+- [Tercer-Laboratorio-Tipo-eCPPTv2]
+  [Tercer-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=0KN1GzeVVmI&t=1301s)
+- [Laboratorio-Pivoting-eCPPT]
+  [Laboratorio-Pivoting-eCPPT]: (chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/djNgEQaK#SMkGghJ6uA4dStqIypCOQw)
 
 These are other content creators who have developed their own simulations that you can also implement. Some of them are available on the internet.
 
@@ -208,12 +205,15 @@ At this point, I had three hosts out of five, so it was time for the buffer over
 Moving from the fourth to the last host, I initially thought of using Metasploit, but if you're somewhat familiar with PowerShell, that's all you need. Doing it with Metasploit is easier than the multiplication table. I got the final machine up and running, and in about two or three hours, I was pwned. As I mentioned before, I had been documenting the process at the same time, but somewhere along the way, I forgot to capture screenshots and parts of the draft report. The excitement of getting it done, I guess. By the end of the third day, I had gotten it all done, but the report was missing some written sections and screenshots. However, with time to spare, I decided to call it a night and get some sleep.
 
 ### Fourth day
+
 as I was missing captures and parts of infome, I think I lost the connection, you know the lab is unstable, but I already knew how to do it, this time, I decided to go over it with Ligolo-ng, documenting and capturing what I had missed before, making it more of a fill in the blanks exercise.
 
 ### Day five
+
 Essentially the same as day four, but this time using Metasploit and Socat. It took me about two hours, almost as if it were done with just pure Metasploit. I did this to reinforce what I had learned, practicing it immediately if I missed or forgot something.
 
 ### Day six
+
 I devoted the whole day to completing the report. I already had about 70% of it, but formatting in LaTeX is a headache. Creating tables, command boxes, images and those final details, as I am meticulous with those things. So I spent the whole day on it, and in the evening I submitted it. That was all said and done. Several days later, the certificate was available. In short, it seemed normal to me because, truth be told, I prepared and studied. However, I remember seeing reviews before and it seemed easier than it looks. And it is true.
 
 ---
@@ -236,7 +236,7 @@ I devoted the whole day to completing the report. I already had about 70% of it,
 
 - You can only restart the lab four times per day. Be cautious.
 
-- Investigate the difference between the following as it will be very common in situations where you think you are not doing something right and you are not reusing the port you have opened, this is useful for bringing things up or reverse-shell. 
+- Investigate the difference between the following as it will be very common in situations where you think you are not doing something right and you are not reusing the port you have opened, this is useful for bringing things up or reverse-shell.
 
 ```bash
 ./socat TCP-LISTEN:2222,fork TCP:192.168.1.7:1111
@@ -248,31 +248,28 @@ I devoted the whole day to completing the report. I already had about 70% of it,
 
 ![list](/assets/img/ecppttrack/19.png){:.lead width="800" height="100" loading="lazy"}
 
-
 - I used Kitty to manage windows efficiently. In one window, I placed all the lights, which are connections with the server. If everything is correct, the server's Chisel connection appears; otherwise, something is wrong.
 
 ![list](/assets/img/ecppttrack/32.png){:.lead width="800" height="100" loading="lazy"}
 
-
-- Concerning bridges (socat / netsh), previously, I opened a port and left the process there. This is extremely inefficient, as you're wasting host resources on socat, which could crash the VPN. What I did is put the bridges on the back burner. 
+- Concerning bridges (socat / netsh), previously, I opened a port and left the process there. This is extremely inefficient, as you're wasting host resources on socat, which could crash the VPN. What I did is put the bridges on the back burner.
 
 ```bash
-#For Linux: 
-./socat tcp-l:2222,fork,reuseaddr tcp:192.168.1.7:1111 & 
-#For Windows: 
+#For Linux:
+./socat tcp-l:2222,fork,reuseaddr tcp:192.168.1.7:1111 &
+#For Windows:
 start chisel.exe client 10.10.0.131:3333 R:1082:socks
 ```
 
 ![list](/assets/img/ecppttrack/9.png){:.lead width="800" height="100" loading="lazy"}
 
-
-- If you forget which port you used, use ProxyChains with Nmap to see open ports: 
+- If you forget which port you used, use ProxyChains with Nmap to see open ports:
 
 ```bash
 proxychains nmap --top-ports 100 --open -T3 -v -n 10.10.10.128 -sT -Pn 2>&1 | grep -vE "timeout|OK|denied"
-``` 
+```
 
-Similarly, check for open ports: 
+Similarly, check for open ports:
 
 ```bash
 proxychains nmap --open -v -n -sCV -p21,22,80,139,445 10.10.10.128 -sT -Pn -oN target 2>&1 | grep -vE "timeout|OK"
@@ -284,7 +281,7 @@ proxychains nmap --open -v -n -sCV -p21,22,80,139,445 10.10.10.128 -sT -Pn -oN t
 
 - Study the difference between strict chain and dynamic chain. Depending on what you're using, you may or may not pass through ProxyChains. The same goes for the web part. It's curious that you just put a proxy, and it opens from all IPs. This is phenomenal, the same for running scripts.
 
-![list](/assets/img/ecppttrack/32.png){:.lead width="800" height="100" loading="lazy"}
+![list](/assets/img/ecppttrack/33.png){:.lead width="800" height="100" loading="lazy"}
 
 ![list](/assets/img/ecppttrack/83.png){:.lead width="800" height="100" loading="lazy"}
 
@@ -298,26 +295,12 @@ proxychains nmap --open -v -n -sCV -p21,22,80,139,445 10.10.10.128 -sT -Pn -oN t
 
 - To avoid overloading the server and prevent putting too much stress on it, I streamlined my enumeration using only one-liners. Examples:
 
-
 ![list](/assets/img/ecppttrack/18.png){:.lead width="800" height="100" loading="lazy"}
 
 ![list](/assets/img/ecppttrack/25.png){:.lead width="800" height="100" loading="lazy"}
 
 ![list](/assets/img/ecppttrack/69.png){:.lead width="800" height="100" loading="lazy"}
 
-
 ## Conclution
 
-
 "I'm not telling you to follow everything I say to the letter. What I'm trying to convey is that if you study conscientiously, you can earn this certification and any other. I won't say it's easy because in life, nothing is easy. In summary, study, take notes on everything, capture everything, and if you get stuck, rest, breathe, backtrack, review your notes, think outside the box. You might face this more than once, so come back. Without much else to tell you, just want to say, see you in OSCP."
-
-
-
-
-
-
-
-
-
-
-
