@@ -40,29 +40,20 @@ In this article, I'll share my experience and how I prepared to ensure I success
 As the saying goes, practice makes perfect. For instance, as a CTF player, I was already comfortable with pivoting using tools like Chisel and Socat, but my experience was limited to double pivoting. While this is more than sufficient for passing eCPPTv2, I firmly believe that taking your time to learn will make you a more proficient professional in the end.
 For this certification, you can pivot in any way you choose—there are no limits. It's a black-box type, so you can utilize various tools, including but not limited to:
 
-- [Chisel].
-  [Chisel]: https://deephacking.tech/pivoting-con-chisel/
-- [socat].
-  [socat]: https://deephacking.tech/pivoting-con-socat/
-- [Netsh].
-  [Netsh]: https://deephacking.tech/pivoting-con-netsh/
-- [ligolo-ng].
-  [ligolo-ng]: https://github.com/nicocha30/ligolo-ng
+- [Chisel](https://deephacking.tech/pivoting-con-chisel/)
+- [socat](https://deephacking.tech/pivoting-con-socat/)
+- [Netsh](https://deephacking.tech/pivoting-con-netsh/)
+- [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
 - Metasploit-with-socat
-- [Metasploit-with-prtfw].
-  [Metasploit-with-prtfw]: https://pentest.blog/explore-hidden-networks-with-double-pivoting/
-- [ssh].
-  [ssh]: https://deephacking.tech/pivoting-con-ssh/
-- [shuttle].
-  [shuttle]: https://deephacking.tech/pivoting-con-shuttle/
-- [Proxychains].
-  [Proxychains]: https://deephacking.tech/pivoting-con-proxychains/
-- [Plink.exe].
-  [Plink.exe]: https://deephacking.tech/pivoting-con-plink-exe/
+- [Metasploit-with-prtfw](https://pentest.blog/explore-hidden-networks-with-double-pivoting/)
+- [ssh](https://deephacking.tech/pivoting-con-ssh/)
+- [shuttle](https://deephacking.tech/pivoting-con-shuttle/)
+- [Proxychains](https://deephacking.tech/pivoting-con-proxychains/)
+- [Plink.exe](https://deephacking.tech/pivoting-con-plink-exe/)
 
-Before diving in, it's crucial to have a good understanding of what pivoting involves. I recommend the **Wreath** room on TryHackMe, but keep in mind that you need a streak of **7 days** to access this room. Answer a question or two each day, and on the seventh day, you'll be able to download the VPN and explore. This room provides excellent explanations of how each tool works, enhancing your understanding of pivoting techniques.
+Before diving in, it's crucial to have a good understanding of what pivoting involves. I recommend the **[Wreath]** room on TryHackMe, but keep in mind that you need a streak of **7 days** to access this room. Answer a question or two each day, and on the seventh day, you'll be able to download the VPN and explore. This room provides excellent explanations of how each tool works, enhancing your understanding of pivoting techniques.
 
-[wreath]: https://tryhackme.com/room/wreath
+[Wreath]: https://tryhackme.com/room/wreath
 
 ---
 
@@ -81,7 +72,7 @@ In summary, you compromise the system, and if necessary, add the network range t
 
 ### Mestasploit and Socat
 
-It's practically the same, everything is the same, just that instead of using portfwd add, we use `socat`. This means that we redirect each connection or reverse shell through socat, and that's it, no portfwd. Everything else remains the same: the 'run autoroute' and the SOCKS proxy module.
+It's practically the same, everything is the same, just that instead of using portfwd add, we use socat. This means that we redirect each connection or reverse shell through socat, and that's it, no portfwd. Everything else remains the same: the 'run autoroute' and the SOCKS proxy module.
 
 ---
 
@@ -91,15 +82,12 @@ Personally, this is the method I've used the most because it's the one I master 
 
 #### S4vitar
 
-- [Preparación-eCPPTv2].
-  [Preparación-eCPPTv2]: https://www.youtube.com/watch?v=_7b_GQDfA5M&pp=ygUPZWNwcHR2MiBzNHZpdGFy
-- [PIVOTING-DESDE-CERO-#1].
-  [PIVOTING-DESDE-CERO-#1]: https://www.youtube.com/watch?v=L1jSoCcvRY4&pp=ygUPZWNwcHR2MiBzNHZpdGFy -[PIVOTING-DESDE-CERO-#2].
-  [PIVOTING-DESDE-CERO-#2]: https://www.youtube.com/watch?v=E4eUdAd6tAM&t=5056s&pp=ygUPZWNwcHR2MiBzNHZpdGFy
-- [PIVOTING-DESDE-CERO-#3].
-  [PIVOTING-DESDE-CERO-#3]: https://www.youtube.com/watch?v=sjUgh__Utvs&t=2483s&pp=ygUPZWNwcHR2MiBzNHZpdGFy -[PIVOTING-DESDE-CERO-#4].
-  [PIVOTING-DESDE-CERO-#4]: https://www.youtube.com/watch?v=Mc4FuBRyybc&t=3768s&pp=ygUPZWNwcHR2MiBzNHZpdGFy -[Simulación-de-examen-eCPPTv2].
-  [Simulación-de-examen-eCPPTv2]: https://www.youtube.com/watch?v=Q7UeWILja-g&t=20906s&pp=ygUPZWNwcHR2MiBzNHZpdGFy
+- [Preparación-eCPPTv2](https://www.youtube.com/watch?v=_7b_GQDfA5M&pp=ygUPZWNwcHR2MiBzNHZpdGFy)
+- [PIVOTING-DESDE-CERO-#1](https://www.youtube.com/watch?v=L1jSoCcvRY4&pp=ygUPZWNwcHR2MiBzNHZpdGFy)
+- [PIVOTING-DESDE-CERO-#2](https://www.youtube.com/watch?v=E4eUdAd6tAM&t=5056s&pp=ygUPZWNwcHR2MiBzNHZpdGFy)
+- [PIVOTING-DESDE-CERO-#3](https://www.youtube.com/watch?v=sjUgh__Utvs&t=2483s&pp=ygUPZWNwcHR2MiBzNHZpdGFy)
+- [PIVOTING-DESDE-CERO-#4](https://www.youtube.com/watch?v=Mc4FuBRyybc&t=3768s&pp=ygUPZWNwcHR2MiBzNHZpdGFy)
+- [Simulación-de-examen-eCPPTv2](https://www.youtube.com/watch?v=Q7UeWILja-g&t=20906s&pp=ygUPZWNwcHR2MiBzNHZpdGFy)
 
 And there are many more resources on the internet, and you might wonder, how does this help me? Well, as I mentioned earlier, practice makes perfect, so you will do it at three levels. Study well how these tools, [Chisel] and [Socat], function. Replicating the lab will be easier if you understand something about the tool.s
 
@@ -132,16 +120,11 @@ Believe me, I assure you that if you practice a lot, you will master pivoting wi
 
 #### Others
 
-- [eCPPTv2-Todo-lo-que-necesitas-saber]
-  [eCPPTv2-Todo-lo-que-necesitas-saber]: (https://www.youtube.com/watch?v=yuQn96veqZc&t=1913s)
-- [Primer-Laboratorio-Tipo-eCPPTv2]
-  [Primer-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=SjwyIY2OdmU&t=6950s)
-- [Segundo-Laboratorio-Tipo-eCPPTv2]
-  [Segundo-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=9G0He3Bt4g4&t=8s)
-- [Tercer-Laboratorio-Tipo-eCPPTv2]
-  [Tercer-Laboratorio-Tipo-eCPPTv2]: (https://www.youtube.com/watch?v=0KN1GzeVVmI&t=1301s)
-- [Laboratorio-Pivoting-eCPPT]
-  [Laboratorio-Pivoting-eCPPT]: (chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/djNgEQaK#SMkGghJ6uA4dStqIypCOQw)
+- [eCPPTv2-Todo-lo-que-necesitas-saber](https://www.youtube.com/watch?v=yuQn96veqZc&t=1913s)
+- [Primer-Laboratorio-Tipo-eCPPTv2](https://www.youtube.com/watch?v=SjwyIY2OdmU&t=6950s)
+- [Segundo-Laboratorio-Tipo-eCPPTv2](https://www.youtube.com/watch?v=9G0He3Bt4g4&t=8s)
+- [Tercer-Laboratorio-Tipo-eCPPTv2](https://www.youtube.com/watch?v=0KN1GzeVVmI&t=1301s)
+- [Laboratorio-Pivoting-eCPPT](chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/djNgEQaK#SMkGghJ6uA4dStqIypCOQw)
 
 These are other content creators who have developed their own simulations that you can also implement. Some of them are available on the internet.
 
@@ -173,12 +156,12 @@ It is valuable to explore all of these tools, as you can take advantage of them 
 
 ## Buffer Overflow
 
-I recommend completing all the binaries in the [Buffer-Overflow-Prep] room and finishing the [Stack-Based-Buffer-Overflows-on-Windows-x86] module. With all this, you can easily overcome the buffer overflow; it's just a matter of practice. To further raise your skill level, challenge yourself by using both Immunity Debugger and x2debug. In this way, you will also become familiar with other tools. Here are also links to [HackTheBox|Buff] and [¿Cómo-explotar-el-Buffer-Overflow-del-OSCP-con-éxito?]
+I recommend completing all the binaries in the [Buffer-Overflow-Prep] room and finishing the [Stack-Based-Buffer-Overflows-on-Windows-x86] module. With all this, you can easily overcome the buffer overflow; it's just a matter of practice. To further raise your skill level, challenge yourself by using both Immunity Debugger and x2debug. In this way, you will also become familiar with other tools. Here are also links to [HackTheBox-Buff] and [¿Cómo-explotar-el-Buffer-Overflow-del-OSCP-con-éxito?]
 
-[Stack-Based-Buffer-Overflows-on-Windows-x86]: (https://academy.hackthebox.com/course/preview/stack-based-buffer-overflows-on-windows-x86)
-[Buffer-Overflow-Prep]: (https://tryhackme.com/room/bufferoverflowprep)
-[¿Cómo-explotar-el-Buffer-Overflow-del-OSCP-con-éxito?]: (https://www.youtube.com/watch?v=sdZ8aE7yxMk&t=2296s)
-[HackTheBox|Buff]: (https://www.youtube.com/watch?v=TytUFooC3kU&t=9392s)
+[Stack-Based-Buffer-Overflows-on-Windows-x86]: https://academy.hackthebox.com/course/preview/stack-based-buffer-overflows-on-windows-x86
+[Buffer-Overflow-Prep]: https://tryhackme.com/room/bufferoverflowprep
+[¿Cómo-explotar-el-Buffer-Overflow-del-OSCP-con-éxito?]: https://www.youtube.com/watch?v=sdZ8aE7yxMk&t=2296s
+[HackTheBox-Buff]: https://www.youtube.com/watch?v=TytUFooC3kU&t=9392s
 
 ---
 
@@ -186,7 +169,7 @@ I recommend completing all the binaries in the [Buffer-Overflow-Prep] room and f
 
 Approach the exam with confidence, but not overconfidence. You have a total of 14 days, 7 days to conquer the lab portion, and another 7 days to compose the report, which is more than sufficient, trust me, to successfully pass the exam.
 
-At this point, I recommend thorough enumeration. If you've faced the EJPT before, you'll already be familiar with the dynamics. First and foremost, be aware that the VPN may have compatibility issues. The exam lab is somewhat outdated, so if you encounter connection problems, edit the VPN where it says cipher AES-256-CBC and modify it to --data-ciphers AES-256-CBC. That's all; now, dive in.
+At this point, I recommend thorough enumeration. If you've faced the EJPT before, you'll already be familiar with the dynamics. First and foremost, be aware that the VPN may have compatibility issues. The exam lab is somewhat outdated, so if you encounter connection problems, edit the VPN where it says **cipher AES-256-CBC** and modify it to `--data-ciphers AES-256-CBC`. That's all; now, dive in.
 
 As always, do not despair. Trust your notes and what you have studied. You may wonder about my progress, about what I did each day. I should mention that I chose to take the exam on a 'Feriado' which is a holiday in a row, freeing me from work and life worries. I wanted to concentrate fully on the exam. In short, I started on Thursday at 8 am. It is worth noting that as I progressed through the exam, I was simultaneously taking notes and taking screenshots, creating a structured report in LaTeX. Although I don't recommend it to everyone, despite having a ready-made template from previous labs, formatting it on the fly took me a considerable amount of time.
 
@@ -303,4 +286,4 @@ proxychains nmap --open -v -n -sCV -p21,22,80,139,445 10.10.10.128 -sT -Pn -oN t
 
 ## Conclution
 
-"I'm not telling you to follow everything I say to the letter. What I'm trying to convey is that if you study conscientiously, you can earn this certification and any other. I won't say it's easy because in life, nothing is easy. In summary, study, take notes on everything, capture everything, and if you get stuck, rest, breathe, backtrack, review your notes, think outside the box. You might face this more than once, so come back. Without much else to tell you, just want to say, see you in OSCP."
+I'm not telling you to follow everything I say to the letter. What I'm trying to convey is that if you study conscientiously, you can earn this certification and any other. I won't say it's easy because in life, nothing is easy. In summary, study, take notes on everything, capture everything, and if you get stuck, rest, breathe, backtrack, review your notes, think outside the box. You might face this more than once, so come back. Without much else to tell you, just want to say, see you in OSCP.
