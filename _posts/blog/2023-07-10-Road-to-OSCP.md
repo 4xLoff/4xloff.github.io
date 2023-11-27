@@ -307,6 +307,25 @@ Continue with [Write Up Worker.](2023-07-10-Road-to-OSCP.md){:.heading.flip-titl
 
 ---
 
+## Write Up MonitorsTwo
+
+![list](/assets/img/monitors2/monitors2.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up MonitorsTwo.](2023-06-02-MonitorsTwo.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+## Write Up TwoMillions
+
+![list](/assets/img/twomillions/twomillions.png){:.lead width="800" height="100" loading="lazy"}
+
+Continue with [Write Up TwoMillions.](2023-06-03-TwoMillions.md){:.heading.flip-title}
+{:.read-more}
+
+---
+
+
 ## Write Up Intelliguence
 
 ![list](/assets/img/intelligence/intell.png){:.lead width="800" height="100" loading="lazy"}
