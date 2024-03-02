@@ -29,7 +29,7 @@ Cuso de Introducción al Hacking de [hack4u.io] Academia de **s4vitar**.
 
 <!--more-->
 
-* this unordered seed list will be replaced by the toc
+1. this unordered seed list will be replaced by the toc
 {:toc}
 
 ---

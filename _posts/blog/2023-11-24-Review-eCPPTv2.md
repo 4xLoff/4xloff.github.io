@@ -8,14 +8,14 @@ image:
   path: /assets/img/ecppttrack/eCPPT.png
 ---
 
----
+***
 
 <!--more-->
 
 1. this ordered seed list will be replaced by the toc
-   {:toc}
+{:toc}
 
----
+***
 
 # Review eCPPTv2
 

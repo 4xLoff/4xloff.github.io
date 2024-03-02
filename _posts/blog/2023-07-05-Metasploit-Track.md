@@ -11,8 +11,8 @@ image:
 
 <!--more-->
 
-* this unordered seed list will be replaced by the toc
-{:toc}
+1. this unordered seed list will be replaced by the toc
+  {:toc}
 
 
 ---
