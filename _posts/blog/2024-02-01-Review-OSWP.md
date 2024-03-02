@@ -17,7 +17,7 @@ image:
 
 ---
 
-# Review eCPPTv2
+# Review OSWP
 
 It is with great joy that I am here to tell you, without spoilers, how to get certified as an [OSWP] **Offensive Security Wireless Professional**. I just got this certification and I want you to get certified too. I'll share with you my experience, tips and tricks so you can get it on your first try.
 
