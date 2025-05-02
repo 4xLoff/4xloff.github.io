@@ -45,12 +45,12 @@ logo:                  /assets/img/seattle.png
 author:
   # Used by `jekyll-feed`:
   name:                4xL
-  email:               jesiel1990arthas@gmail.com 
+  email:               helpers.593@proton.me 
   picture:             /assets/img/seattle.png
   social:
     linkedin:          https://www.linkedin.com/in/jhoncarloslara/
     github:            https://github.com/4xLoff
-    email:             jesiel1990arthas@gmail.com
+    email:             helpers.593@proton.me
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
