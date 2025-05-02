@@ -36,7 +36,7 @@ work:
       Professional Red & Blue Team Consultant.
     highlights:
      
-  - company: ""
+  - company: "Example"
     position: "Intern"
     website: ""
     startDate: "2020-12-01"
@@ -45,7 +45,7 @@ work:
       Cybersecurity.
     highlights:
     
-  - company: ""
+  - company: "Example"
     position: "Customer Service"
     website: ""
     startDate: "2013-10-15"
@@ -64,7 +64,7 @@ work:
     # highlights:
       # - ""
 education:
-  - institution: "ITECSUR"
+  - institution: "Example"
     area: "Cybersecurity"
     studyType: "Bachelor"
     startDate: "2018-05-01"
