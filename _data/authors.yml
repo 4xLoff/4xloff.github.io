@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              4xL
-  email:             jesiel1990arthas@gmail.com
+  email:             helpers.593@proton.me
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -30,7 +30,7 @@ author1:
   social:
     linkedin:        https://www.linkedin.com/in/jhoncarloslara/
     github:          https://github.com/4xLoff   
-    email:           jesiel1990arthas@gmail.com 
+    email:           helpers.593@proton.me 
     # stackoverflow:
     # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
