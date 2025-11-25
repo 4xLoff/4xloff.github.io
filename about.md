@@ -20,15 +20,12 @@ Por favor, revisa mi [resume]  si deseas saber más sobre mí.
 
 ***
 
-## Road to OSCP.
+## Projects.
 
 _My motto to live by._
 {:.lead}
 
-> “"If you don't want to learn, it's because you don't want to or you don't have internet."(4xL-2022)”
-
-> "Si no quieres aprender, es porque no quieres o no tienes acceso a internet." (4xL-2022)"
-
+> “Si quieres aprender algo, estúdialo. Si quieres entenderlo, escríbelo. Si quieres dominarlo, enséñalo.”
 
 ***
 
