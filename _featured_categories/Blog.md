@@ -1,7 +1,7 @@
 ---
 layout: list
 type: category
-title: Road to OSCP.
+title: Projects.
 slug: Blog
 sidebar: true
 order: 1
