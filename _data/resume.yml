@@ -74,7 +74,7 @@ projects:
   - title: "Blog de Ciberseguridad y Write ups de Plataformas de CTF’s"
     startDate: "2022-01-10"
     endDate: ""
-    summary: "Road to OSCP"
+    summary: ""
     highlights:
   - title: "GitHub Repository"
     startDate: "2022-01-10"
@@ -85,7 +85,7 @@ projects:
   - title: "YouTube Channel of Helpers."
     startDate: "2022-01-10"
     endDate: ""
-    summary: "Road to OSCP"
+    summary: ""
     url: "https://www.youtube.com/channel/UCspCDgm1BZ4siDL_z4NF6vA"
     highlights:
   - title: "Cybersecurity TikTok."
