@@ -28,15 +28,15 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin:        https://www.linkedin.com/in/jhoncarloslara/
-    github:          https://github.com/4xLoff   
-    email:           helpers.593@proton.me 
-    # stackoverflow:
-    # rss:             https://lazyren.github.io/feed.xml
-    # facebook:        <username>
+    linkedin:          
+    github:            
+    email:             helpers.593@proton.me 
+    # stackoverflow:   <username>
+    # rss:             <username>
+    # facebook:        https://www.facebook.com/Helpers.593/
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    # youtube:         https://www.youtube.com/@4xLoff
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
