@@ -20,12 +20,22 @@ basics:
   #   region: "Ecuador"
   
   profiles:
-    - network: "Github"
+    - network: "Mail"
       username: "4xLoff"
-      url: "https://github.com/4xLoff"
-    - network: "LinkedIn"
-      username: "Jhon Carlos Lara"
-      url: "https://www.linkedin.com/in/jhoncarloslara/"
+      url: "helpers.593@proton.me"
+    - network: "YouTube"
+      username: "4xLoff"
+      url: "https://www.youtube.com/@4xLoff"
+    - network: "Facebook"
+      username: "Helpers.593"
+      url: "https://www.facebook.com/Helpers.593/"
+    - network: "Instagram"
+      username: "Helpers.593"
+      url: "https://www.instagram.com/helpers.593/#"
+    - network: "TikTok"
+      username: "Helpers.ec"
+      url: "https://www.tiktok.com/@helpers.ec"
+      
 work:
   - company: "Helpers"
     position: "CEO"
